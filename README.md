@@ -1,4 +1,7 @@
-# Hi! I'm Kel
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hirad%20Vinoya&fontSize=70&animation=twinkling" />
+</p>
+
 
 <!--
 **kelvinoya/kelvinoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
